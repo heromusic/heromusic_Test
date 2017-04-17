@@ -1,4 +1,0 @@
-﻿  ConsoleApplication1.cpp
-c:\users\junsoo\desktop\test\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): warning C4101: 'mengeArr' :참조되지 않은 지역 변수입니다.
-  ConsoleApplication1.vcxproj -> C:\Users\Junsoo\Desktop\Test\ConsoleApplication1\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> C:\Users\Junsoo\Desktop\Test\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
